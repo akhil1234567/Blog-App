@@ -15,5 +15,9 @@
     "express-sanitizer": "^1.0.4",
     "method-override": "^3.0.0",
     "mongoose": "^5.2.5"
+  },
+ "engines": {
+    "node": "^8.11.3" ,
+    "npm": "^5.6.0"
   }
 }
