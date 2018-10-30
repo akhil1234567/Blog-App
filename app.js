@@ -1,4 +1,4 @@
-var express        = require('expre'),
+var express        = require('express'),
     methodOverride = require("method-override"),
     expressSanitizer = require("express-sanitizer"),
     mongoose       = require('mongoose'),
